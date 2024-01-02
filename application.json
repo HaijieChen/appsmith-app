@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "id": "Login",
+      "isDefault": true
+    },
+    {
+      "id": "Index",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {
+      "showNavbar": false,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoOnly",
+      "showSignIn": false
+    }
+  },
+  "color": "#D6D1F2",
+  "icon": "alien",
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": true
+  },
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
